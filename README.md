@@ -1,3 +1,5 @@
+![Wallpaper](./assets/img/CurrencyImage.jpg)
+
 # Proyecto conversor de moneda
 
 ![Static Badge](https://img.shields.io/badge/powered_by-Oracle-C34131?style=for-the-badge)
